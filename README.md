@@ -80,4 +80,4 @@ These visuals turn raw data into easy-to-read insights supporting fast analysis.
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. -
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/manish-bhagwane/Bank-Loan-Dashboard/blob/main/Snapshot%20Of%20Bank%20Loan%20Dashboard..png)
