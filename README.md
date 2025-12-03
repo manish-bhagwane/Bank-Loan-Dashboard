@@ -79,5 +79,5 @@ These visuals turn raw data into easy-to-read insights supporting fast analysis.
 4. Regional Analysis: Revealed location-based performance gaps for smarter resource planning.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. -
+The dashboard looks like. -
 ![Dashboard Preview](https://github.com/manish-bhagwane/Bank-Loan-Dashboard/blob/main/Snapshot%20Of%20Bank%20Loan%20Dashboard..png)
